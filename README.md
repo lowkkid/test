@@ -20,8 +20,8 @@
 Склонируйте репозиторий на ваш локальный компьютер:
 
 ```sh
-git clone https://github.com/yourusername/library-api.git
-cd library-api
+git clone https://github.com/lowkkid/testi.git
+cd test
 ```
 
 ### 2. Создание базы данных
